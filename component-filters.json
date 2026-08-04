@@ -71,44 +71,5 @@
       "range",
       "card-choice"
     ]
-  },
-  {
-      "id": "consent-popup",
-      "fields": [
-        {
-          "component": "container",
-          "name": "basic",
-          "label": "Basic",
-          "collapsible": false,
-          "...": "../../models/form-common/_basic-input-fields.json"
-        },
-        {
-          "component": "boolean",
-          "label": "Show Modal",
-          "name": "showModal",
-          "valueType": "boolean",
-          "value": true
-        },
-        {
-          "component": "select",
-          "label": "Choose the type of consent",
-          "name": "consentType",
-          "required": true,
-          "valueType": "string",
-          "options": [
-            {
-              "name": "Account Related",
-              "value": "accountRelatedservicesCaptureconsent"
-            },
-            {
-              "name": "Other Related Services",
-              "value": "otherRelatedServicesCaptureConsent"
-            }
-          ]
-        },
-        {
-          "...": "../../models/form-common/_help-container.json"
-        }
-      ]
-    }
+  }
 ]
