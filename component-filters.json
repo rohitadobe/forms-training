@@ -70,7 +70,8 @@
       "wizard",
       "range",
       "card-choices",
-      "custom-choices"
+      "custom-choices",
+      "custom-component"
       
     
     ]
