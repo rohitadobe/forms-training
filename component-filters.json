@@ -69,7 +69,10 @@
       "tnc",
       "wizard",
       "range",
-      "card-choices"
+      "card-choices",
+      "custom-choices"
+      
+    
     ]
   }
 ]
