@@ -17,7 +17,8 @@
       "columns",
       "fragment",
       "form",
-      "embed-adaptive-form"
+      "embed-adaptive-form",
+      "consent-popup"
     ]
   },
   {
@@ -38,7 +39,8 @@
       "text",
       "image",
       "button",
-      "title"
+      "title",
+      "consent-popup"
     ]
   },
   {
@@ -69,7 +71,8 @@
       "tnc",
       "wizard",
       "range",
-      "card-choice"
+      "card-choice",
+      "consent-popup"
     ]
   }
 ]
