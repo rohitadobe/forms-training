@@ -4019,7 +4019,7 @@
     ]
   },
   {
-    "id": "card-choice",
+    "id": "card-choices",
     "fields": [
       {
         "component": "container",
