@@ -2,4 +2,4 @@ mountpoints:
   /:
     url: https://author-p96753-e1523920.adobeaemcloud.com/bin/franklin.delivery/rohitadobe/forms-training/main
     type: "markup"
-    suffix: ".html"
+    suffix: ".html" 
