@@ -686,15 +686,15 @@
           }
         },
         {
-          "title": "Card choices",
-          "id": "card-choices",
+          "title": "Card choice",
+          "id": "card-choice",
           "plugins": {
             "xwalk": {
               "page": {
                 "resourceType": "core/fd/components/form/radiobutton/v1/radiobutton",
                 "template": {
                   "type": "object",
-                  "jcr:title": "Card choices",
+                  "jcr:title": "Card choice",
                   "fieldType": "radio-group",
                   "enum": [
                     "0",
