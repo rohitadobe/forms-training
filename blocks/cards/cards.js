@@ -1,6 +1,3 @@
-import { createOptimizedPicture } from '../../scripts/aem.js';
-import { moveInstrumentation } from '../../scripts/scripts.js';
-
 import { createOptimizedPicture } from '../../../../scripts/aem.js';
 
 
@@ -12,4 +9,3 @@ export default function decorate(element, fieldJson, container, formId) {
     });
     return element;
 }
-
