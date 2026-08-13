@@ -1,7 +1,7 @@
 {
   "definitions": [
     {
-      "title": "Cards",
+      "title": "Cardss",
       "id": "cards",
       "plugins": {
         "xwalk": {
@@ -17,7 +17,7 @@
     },
     {
       "title": "Card",
-      "id": "card",
+      "id": "cards",
       "plugins": {
         "xwalk": {
           "page": {
@@ -33,7 +33,7 @@
   ],
   "models": [
     {
-      "id": "card",
+      "id": "cards",
       "fields": [
         {
           "component": "reference",
