@@ -473,7 +473,7 @@
           }
         },
         {
-          "title": "Accordion",
+          "title": "Accordions",
           "id": "form-accordion",
           "plugins": {
             "xwalk": {
